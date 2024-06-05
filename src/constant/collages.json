@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Faculty of medicine",
+    "slug": "faculty-of-medicine",
+    "image": "/images/Medical.png",
+    "avatar": "/5.svg"
+  },
+  {
+    "name": "College of Engineering",
+    "image": "/images/it.avif",
+    "avatar": "/3.svg",
+    "slug": "college-of-engineering"
+  },
+  {
+    "name": "Faculty of Dentistry",
+    "slug": "faculty-of-dentistry",
+    "image": "/images/zahn.jpg",
+    "avatar": "/4.svg"
+  },
+  {
+  "name": "College of Petroleum Engineering",
+  "slug": "college-of-petroleum-engineering",
+  "image": "/images/petrol.jpg",
+    "avatar": "/2.svg"
+},{
+  "name": "faculty of Pharmacy",
+  "slug": "faculty-of-pharmacy",
+  "image": "/images/pharmist.png",
+  "avatar": "/1.svg"
+},{
+  "name": "Faculty of Administrative Sciences",
+  "slug": "faculty-of-administrative-sciences",
+  "image": "/images/ss.jpg",
+  "avatar": "/6.svg"
+}
+]
